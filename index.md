@@ -26,18 +26,3 @@
 
 1、[Docker和Kubernetes是竞争对手吗？](https://www.docker.com/blog/top-questions-docker-kubernetes-competitors-or-together/)
 
-2、[test](/docs/产品人该如何选平台.md)
-
-
-
-## 文章翻译
-
-**1、容器技术Docker。**
-
-**2、消息中间件RabbitMQ。**
-
-**3、即时通讯协议XMPP与Openfire。**
-
-**4、Progressive Web App。**
-
-## 
