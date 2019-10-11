@@ -25,7 +25,7 @@
 
 
 [Docker和Kubernetes是竞争对手吗？](https://www.docker.com/blog/top-questions-docker-kubernetes-competitors-or-together/)
-
+ 
 [今天是重阳节](/docs/logs/20191007.md)
 
 [test](/docs/产品人该如何选平台.md)
