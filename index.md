@@ -8,9 +8,9 @@
 
 往前看，曾经的前方终点好似未曾靠近。
 
-硬着头皮敢问路在何方。
+硬着头皮，敢问路在何方。
 
-路在脚下。
+在脚下。
 
 ## 朝花夕拾
 
@@ -19,3 +19,23 @@
 
 这里我借由鲁迅先生的”朝花夕拾“名称，来记录一下日常积累的有趣文章。也算是日有所思，夜有所积。
 ```
+
+**2019-10-11:**
+
+1、[Docker和Kubernetes是竞争对手吗？](https://www.docker.com/blog/top-questions-docker-kubernetes-competitors-or-together/)
+
+2、
+
+
+
+## 文章翻译
+
+**1、容器技术Docker。**
+
+**2、消息中间件RabbitMQ。**
+
+**3、即时通讯协议XMPP与Openfire。**
+
+**4、Progressive Web App。**
+
+## 
