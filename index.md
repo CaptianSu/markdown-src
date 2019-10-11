@@ -22,7 +22,12 @@
 这里我借由鲁迅先生的”朝花夕拾“名称，来记录一下日常积累的有趣文章。也算是日有所思，夜有所积。
 ```
 
-**2019-10-11:**
 
-1、[Docker和Kubernetes是竞争对手吗？](https://www.docker.com/blog/top-questions-docker-kubernetes-competitors-or-together/)
+
+[Docker和Kubernetes是竞争对手吗？](https://www.docker.com/blog/top-questions-docker-kubernetes-competitors-or-together/)
+
+
+
+[今天是重阳节](/docs/logs/20191007.md)
+
 
