@@ -24,7 +24,7 @@
 
 1、[Docker和Kubernetes是竞争对手吗？](https://www.docker.com/blog/top-questions-docker-kubernetes-competitors-or-together/)
 
-2、
+2、[test](/docs/产品人该如何选平台.md)
 
 
 
