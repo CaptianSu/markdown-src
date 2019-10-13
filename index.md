@@ -16,7 +16,7 @@
 
 ### 修行录
 
-英语学习录：[**Nanny state**](/docs/learn/nannystate.md),
+英语学习录：[**Nanny state**](/docs/learn/nannystate.md),[**Positive and Negative](/docs/learn/positive.md)
 
 ## 朝花夕拾
 
