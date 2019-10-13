@@ -14,6 +14,10 @@
 
 在脚下。
 
+### 修行录
+
+英语学习录：[**Nanny state**](/docs/learn/nannystate.md),
+
 ## 朝花夕拾
 
 ```“朝”表示早年时候，“夕”表示晚年时期，意思是早上的花晚上来捡，这里指鲁迅先生在晩年回忆童年时期、少年时期、青年时期的人和事
@@ -22,10 +26,8 @@
 这里我借由鲁迅先生的”朝花夕拾“名称，来记录一下日常积累的有趣文章。也算是日有所思，夜有所积。
 ```
 
-
-
 [Docker和Kubernetes是竞争对手吗？](https://www.docker.com/blog/top-questions-docker-kubernetes-competitors-or-together/)
- 
+
 [今天是重阳节](/docs/logs/20191007.md)
 
-[test](/docs/产品人该如何选平台.md)
+[动态绚丽背景]([https://wangyasai.github.io/designtools.html)
