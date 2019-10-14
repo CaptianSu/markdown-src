@@ -23,12 +23,11 @@
 
 ### 修行录
 
-英语学习录：[**Nanny state**](/docs/learn/nannystate.md),[**Positive and Negative](/docs/learn/positive.md)
+英语学习录：[**Nanny state**](/docs/learn/nannystate.md),[**Positive and Negative**](/docs/learn/positive.md)
 
 ## 朝花夕拾
 
 ```
-“朝”表示早年时候，“夕”表示晚年时期，意思是早上的花晚上来捡，这里指鲁迅先生在晩年回忆童年时期、少年时期、青年时期的人和事
 “朝”表示早年时候，“夕”表示晚年时期，意思是早上的花晚上来捡，这里指鲁迅先生在晩年回忆童年时期、少年时期、青年时期的人和事
 
 这里我借由鲁迅先生的”朝花夕拾“名称，来记录一下日常积累的有趣文章。也算是日有所思，夜有所积。
