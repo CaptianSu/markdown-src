@@ -1,9 +1,15 @@
 ## 基本信息
-- 现居住武汉 │ 11年工作经验 │ 男 │ 36 岁 (1983/04/28) │ 目前年收入20 | 一周内入职
+![武汉](https://img.shields.io/badge/现住址-武汉-green) 
+![工作经验](https://img.shields.io/badge/工作经验-11-green)
+![年龄](https://img.shields.io/badge/年龄-36岁-green)
+![年收入](https://img.shields.io/badge/年收入-20万-green)
+![入职时间](http://img.shields.io/badge/入职时间-一周内-green)
+![Phone](http://img.shields.io/badge/phone-18627866090-green)
+![@](http://img.shields.io/badge/email-18627866090@163.com-green)
 
-- 武汉市桥口区民意四路 | 18627866090 | 18627866090@163.com
-
-- 产品经理 | 计算机软件、政府行业、 电信/互联网/电子商务 | 技术背景
+![职能/职位](http://img.shields.io/badge/职能/职位-产品经理-green)
+![行业背景](http://img.shields.io/badge/职能/行业背景-计算机软件|政府行业|电信|互联网|电子商务-green)
+![优势](http://img.shields.io/badge/职能/优势-技术背景|多领域专家|沟通能力-green)
 
 ##### 自我评价
 > 我是一个对理想有着执着追求的人，坚信理想带领我不断前进。
