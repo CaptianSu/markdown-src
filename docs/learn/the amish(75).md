@@ -1,3 +1,8 @@
+---
+title: Amish
+date: 2019-10-14
+---
+
 ### The Amish
 In the heart of America, in the states of pennsylvania, Ohio and indiana, live some people who are not your typical Americans. In order to lead simple lives, they don't use cars, Instead, they drive horse-drawn buggies. They don't use electric lights, either, not to mention telephones, They make their own clothing which looks ancient. And, to make matters worse, they don't speak English but German among themselves.
 
