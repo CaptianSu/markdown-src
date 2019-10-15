@@ -73,14 +73,12 @@
 4、通过努力，由最初的23人团队，增加值近100人的研发团队。得到用户高度认可。
 ```
 ## 项目经验
-*2018-2019* **新一代移动警务应用平台-智慧警务**  
-
-![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-公安-green) ![](https://img.shields.io/badge/-行业领先-yellow) ![](https://img.shields.io/badge/-多地上线-green) ![](https://img.shields.io/badge/-APP-green) 
+*2018-2019* **新一代移动警务应用平台-智慧警务**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-公安-green) ![](https://img.shields.io/badge/-行业领先-yellow) ![](https://img.shields.io/badge/-多地上线-green) ![](https://img.shields.io/badge/-APP-green) 
 ```
 新一代移动警务应用平台，根据公安部《全国公安移动警务建设总体技术方案（2016版）》要求，提供了一线部门需要和
-公安数据中心进行实时信息交换，对在逃人员、常住人口、暂住人口、重点人口、车辆等信息进行及时、迅速的查询，随时随地
-获得公安业务信息的支持。现一线民警移动执法办案、现场业务办理、远程异地办公等移动化业务需求，提高公安机关应急指挥
-、快速反应，大大提高执法的效率和灵活性。
+公安数据中心进行实时信息交换，对在逃人员、常住人口、暂住人口、重点人口、车辆等信息进行及时、迅速的查询，
+随时随地获得公安业务信息的支持。现一线民警移动执法办案、现场业务办理、远程异地办公等移动化业务需求，提高公安
+机关应急指挥、快速反应，大大提高执法的效率和灵活性。
 
 1. 实现了公司项目产品化的标准流程和制度设计。
 2. 为公司奠定了行业基础以及培养了多名核心骨干团队成员。
@@ -90,14 +88,12 @@
 > 关键技术: 华为PAAS、阿里云平台、微服务架构、容器编排技术、XMPP即时通讯协议 、Oracle、Redis、消息中间件。
 
 
-*2012-2018* **电信O2O积分商盟平台**  
-
-![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-商业联盟-yellow)  ![](https://img.shields.io/badge/-APP-green) 
+*2012-2018* **电信O2O积分商盟平台**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-商业联盟-yellow)  ![](https://img.shields.io/badge/-APP-green) 
 
 ```
 由运营商、商品平台，联盟商户、合作伙伴共同打造，在运营商所在地区进行以市场推广、客户服务、资源共享、交叉营销为
-目的的商业联盟及合作共享体系。项目包括传统互联网平台、移动互联网平台、SP渠道平台。为运营商提供全方位的营销手段，
-为用户提供多种不同体验，为联盟商户、合作伙伴提供多渠道平台推广服务。
+目的的商业联盟及合作共享体系。项目包括传统互联网平台、移动互联网平台、SP渠道平台。为运营商提供全方位的营销
+手段，为用户提供多种不同体验，为联盟商户、合作伙伴提供多渠道平台推广服务。
 
 1. 作为产品经理，实地调研用户的需求并与客户进行讨论、分析和决策。
 2. 建立产品商业模式，设计和制作了高保真产品原型（Axure)，推动产品的研发工作进行。
@@ -107,14 +103,12 @@
 ```
 >关键技术: JAVA、Mysql，HTTPS、SOCKET、JSON、ORACLE、Unix消息队列，Unix多线程，多进程并发处理。
 
-*2012-2018* **移动电子营销平台**  
-
-![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-零售线下支付-yellowred)  ![](https://img.shields.io/badge/-SMS-green) 
+*2012-2018* **移动电子营销平台**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-零售线下支付-yellowred)  ![](https://img.shields.io/badge/-SMS-green) 
 
 ```
-移动电子营销平台，是一个以手机为媒介，以手机消费码为凭证的无卡、无券、无物流、无库存的电子营销系统，是基于手机的
-新型电子商务应用。通过利用移动营销电子化平台工具，打通移动和零售超市收银系统，实现移动营销回馈和积分兑换成统一的
-手机短信电子消费卡，直接在超市、商户收银前台输入密码串完成验证，实现联机消费。
+移动电子营销平台，是一个以手机为媒介，以手机消费码为凭证的无卡、无券、无物流、无库存的电子营销系统，是基于手机
+的新型电子商务应用。通过利用移动营销电子化平台工具，打通移动和零售超市收银系统，实现移动营销回馈和积分兑换成	
+统一的手机短信电子消费卡，直接在超市、商户收银前台输入密码串完成验证，实现联机消费。
  
 1. 作为产品经理，组织了对产品进行调研、分析、设计、研发、测试和各省实施
 2. 选择产品架构、开发语言，进行人员配置，制定研发周期、研发计划.
@@ -124,16 +118,14 @@
 ```
 >关键字：C++、ORACLE、Mysql、Unix环境代码编译工具(make), Apache(C++)、JSON、XML、JAVA
 
-*2012-2019* **和生活-影院在线订座系统**  
-
-![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-在线支付-yellowred) ![](https://img.shields.io/badge/-APP-green) 
+*2012-2019* **和生活-影院在线订座系统**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-在线支付-yellowred) ![](https://img.shields.io/badge/-APP-green) 
 ```
 系统作为中国移动“和生活”品牌下一个独立平台，为中国移动“和生活”用户提供方便快捷的影院在线订座服务，系统接入
 “和生活”用户管理平台，运营商积分管理平台、万达影院在线订座系统、支付宝、银联等其他第三方支付平台，利用各平台
 优势为用户提供电影信息、线上选座、支付渠道、快速验证渠道等整流程服务。为影院提供清结算系统、数据分析报表相关
 结算服务。
 
-1. 作为该产品经理，带领团队与客户团队进行了充分沟通和实地、市场调研，采纳和分析各方需求.
+1. 作为产品经理，带领团队与客户团队进行了充分沟通和实地、市场调研，采纳和分析各方需求.
 2. 为项目制定了项目与风险控制计划，制定和控制项目的进度和质量，
 3. 建立产品roadmap，制定产品的生命周期，协调研发、市场营销、产品运营策略。
 4. 设计和制作了高保真产品原型（Axure)，推动产品的研发工作进行。
@@ -142,16 +134,14 @@
 ```
 >关键技术: MVC，JavaScript、Nodejs、C++、Apache(C++)、JSON、XML、JAVA、Oracle、第三方支付接口(支付宝、微信支付接口，银联支付接口，中国移动和包支付接口)
 
-*2015-2019* **全国数字商品分销平台**  
-
-![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-B2B-green) ![](https://img.shields.io/badge/-在线支付-yellowred)  
+*2015-2019* **全国数字商品分销平台**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-B2B-green) ![](https://img.shields.io/badge/-在线支付-yellowred)  
 ```
 "全国数字商品分销平台" 包括一个集合个运营商资源的流量充值平台（接口）和管理平台（WEB）。该平台提供快速、
 稳定的充值接口，采用RESTFUL软件架构设计，提供高并发、低延时快速有效的流量充值服务。平台各类系统能力，为
 客户渠道提供了便捷的服务。包括：统计分析功能 、用户管理功能 、商品管理功能、对帐和动态报表功能、自助账户
 充值功能等。
 
-1. 作为该产品经理，组织了和参与了项目的全部技术方案、数据模型、软件结构、网络模型的建设。
+1. 作为产品经理，组织了和参与了项目的全部技术方案、数据模型、软件结构、网络模型的建设。
 2. 针对该项目的特点，大胆提出使用Nodejs运行环境。推动和协调技术部门，调整技术人员的结构。
 3. 为项目确定了核心的技术方案和软件架构，并制定了产品研发计划，参与测试计划的编撰，指导了运维工作的实施。
 4. 该项目目前，作为公司的主营项目正在运营，每年为公司带来了80%的盈利。
