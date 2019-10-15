@@ -4,15 +4,17 @@
 ![武汉](https://img.shields.io/badge/现住址-武汉-yellow) 
 ![工作经验](https://img.shields.io/badge/工作经验-11-blue)
 ![年龄](https://img.shields.io/badge/年龄-36岁-green)
+![学历](http://img.shields.io/badge/中南财经政法大学-本科-blue)
 ![年收入](https://img.shields.io/badge/年收入-20万-blue)
 ![入职时间](http://img.shields.io/badge/入职时间-一周内-yellow)
-![Phone](http://img.shields.io/badge/phone-18627866090-green)
-![@](http://img.shields.io/badge/email-18627866090@163.com-green)
 
-![学历](http://img.shields.io/badge/中南财经政法大学-本科-blue)
+
 ![职位](http://img.shields.io/badge/职位-产品经理-green)
 ![行业背景](http://img.shields.io/badge/行业背景-计算机软件|政府行业|电信|互联网|电子商务-blue)
 ![优势](http://img.shields.io/badge/优势-技术背景|多领域专家|沟通能力-blue)
+
+![Phone](http://img.shields.io/badge/电话-18627866090-green)
+![@](http://img.shields.io/badge/@-18627866090@163.com-green)
 
 
 ## 自我评价
@@ -115,9 +117,9 @@
 *2012-2018* **移动电子营销平台**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-零售线下支付-yellowred)  ![](https://img.shields.io/badge/-SMS-green) 
 
 ```
-移动电子营销平台，是一个以手机为媒介，以手机消费码为凭证的无卡、无券、无物流、无库存的电子营销系统，是基于手机
-的新型电子商务应用。通过利用移动营销电子化平台工具，打通移动和零售超市收银系统，实现移动营销回馈和积分兑换成	
-统一的手机短信电子消费卡，直接在超市、商户收银前台输入密码串完成验证，实现联机消费。
+移动电子营销平台，是一个以手机为媒介，以手机消费码为凭证的无卡、无券、无物流、无库存的电子营销系统，是基于
+手机的新型电子商务应用。通过利用移动营销电子化平台工具，打通移动和零售超市收银系统，实现移动营销回馈和积分
+兑换成统一的手机短信电子消费卡，直接在超市、商户收银前台输入密码串完成验证，实现联机消费。
  
 1. 作为产品经理，组织了对产品进行调研、分析、设计、研发、测试和各省实施。
 
