@@ -73,7 +73,9 @@
 4、通过努力，由最初的23人团队，增加值近100人的研发团队。得到用户高度认可。
 ```
 ## 项目经验
-2018-2019 **新一代移动警务应用平台-智慧警务**
+*2018-2019* **新一代移动警务应用平台-智慧警务**  
+
+![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-公安-green) ![](https://img.shields.io/badge/-行业领先-yellow) ![](https://img.shields.io/badge/-多地上线-green) ![](https://img.shields.io/badge/-APP-green) 
 ```
 新一代移动警务应用平台，根据公安部《全国公安移动警务建设总体技术方案（2016版）》要求，提供了一线部门需要和公安
 数据中心进行实时信息交换，对在逃人员、常住人口、暂住人口、重点人口、车辆等信息进行及时、迅速的查询，随时随地获得
@@ -88,7 +90,9 @@
 > 关键技术: 华为PAAS、阿里云平台、微服务架构、容器编排技术、XMPP即时通讯协议 、Oracle、Redis、消息中间件。
 
 
-2012-2018 **电信O2O积分商盟平台**
+*2012-2018* **电信O2O积分商盟平台**  
+
+![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-商业联盟-yellow)  ![](https://img.shields.io/badge/-APP-green) 
 
 ```
 由运营商、商品平台，联盟商户、合作伙伴共同打造，在运营商所在地区进行以市场推广、客户服务、资源共享、交叉营销为目
@@ -103,7 +107,10 @@
 ```
 >关键技术: JAVA、Mysql，HTTPS、SOCKET、JSON、ORACLE、Unix消息队列，Unix多线程，多进程并发处理。
 
-2012-2018 **移动电子营销平台**
+*2012-2018* **移动电子营销平台**  
+
+![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-零售线下支付-yellowred)  ![](https://img.shields.io/badge/-SMS-green) 
+
 ```
 移动电子营销平台，是一个以手机为媒介，以手机消费码为凭证的无卡、无券、无物流、无库存的电子营销系统，是基于手机的
 新型电子商务应用。通过利用移动营销电子化平台工具，打通移动和零售超市收银系统，实现移动营销回馈和积分兑换成统一的
@@ -117,7 +124,9 @@
 ```
 >关键字：C++、ORACLE、Mysql、Unix环境代码编译工具(make), Apache(C++)、JSON、XML、JAVA
 
-2015-2019 **和生活-影院在线订座系统**
+*2012-2019* **和生活-影院在线订座系统**  
+
+![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-在线支付-yellowred) ![](https://img.shields.io/badge/-APP-green) 
 ```
 系统作为中国移动“和生活”品牌下一个独立平台，为中国移动“和生活”用户提供方便快捷的影院在线订座服务，系统接入
 “和生活”用户管理平台，运营商积分管理平台、万达影院在线订座系统、支付宝、银联等其他第三方支付平台，利用各平台优势
@@ -132,7 +141,9 @@
 ```
 >关键技术: MVC，JavaScript、Nodejs、C++、Apache(C++)、JSON、XML、JAVA、Oracle、第三方支付接口(支付宝、微信支付接口，银联支付接口，中国移动和包支付接口)
 
-2015-2019 **全国数字商品分销平台**
+*2015-2019* **全国数字商品分销平台**  
+
+![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-B2B-green) ![](https://img.shields.io/badge/-在线支付-yellowred)  
 ```
 "全国数字商品分销平台" 包括一个集合个运营商资源的流量充值平台（接口）和管理平台（WEB）。该平台提供快速、
 稳定的充值接口，采用RESTFUL软件架构设计，提供高并发、低延时快速有效的流量充值服务。平台各类系统能力，为客户
