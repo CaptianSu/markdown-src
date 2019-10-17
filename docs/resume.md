@@ -133,7 +133,8 @@
 ```
 >关键字：C++、ORACLE、Mysql、Unix环境代码编译工具(make), Apache(C++)、JSON、XML、JAVA
 
-*2012-2019* **和生活-影院在线订座系统**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-在线支付-yellowred) ![](https://img.shields.io/badge/-APP-green) 
+
+*2012-2019* **和生活-影院在线订座平台**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-在线支付-yellowred) ![](https://img.shields.io/badge/-APP-green) 
 ```
 系统作为中国移动“和生活”品牌下一个独立平台，为中国移动“和生活”用户提供方便快捷的影院在线订座服务，系统接入
 “和生活”用户管理平台，运营商积分管理平台、万达影院在线订座系统、支付宝、银联等其他第三方支付平台，利用各平台
@@ -144,11 +145,11 @@
 
 2. 为项目制定了项目与风险控制计划，制定和控制项目的进度和质量。
 
-3. 建立产品roadmap，制定产品的生命周期，协调研发、市场营销、产品运营策略。
+3. 积极拓展影院资源，协调研发、市场营销、产品运营策略。
 
-4. 设计和制作了高保真产品原型（Axure)，推动产品的研发工作进行。
+4. 主导设计了包括影院资源接口，支付接口等标准，推动产品的研发工作进行。
 
-5. 跟踪和推送的产品上线实施，顺利完成了多地产品上线运营。
+5. 制定了全年的营销计划，包括抢票、首映、团购、节日分享等营销活动，顺利完成了产品运营。
 
 ```
 >关键技术: MVC，JavaScript、Nodejs、C++、Apache(C++)、JSON、XML、JAVA、Oracle、第三方支付接口(支付宝、微信支付接口，银联支付接口，中国移动和包支付接口)
