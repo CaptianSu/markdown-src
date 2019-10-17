@@ -1,0 +1,38 @@
+
+.reveal blockquote {
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 5px;
+  font-size: 0.45em;
+  font-style: normal;
+  color: #cecece;
+  text-align: left;
+  line-height: 2;
+  border-radius: 5px;
+  font-family:"Times New Roman",Georgia,Serif;
+
+}
+
+.reveal pre code {
+  font-family:"Times New Roman",Georgia,Serif;
+  border-radius: 5px;
+}
+.reveal blockquote strong{
+	color: #0b91de
+}
+
+.reveal section img {
+  margin: 15px 0px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 0px solid #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+}
+
+
+.hljs {
+  color: #d4cfc8;
+}
