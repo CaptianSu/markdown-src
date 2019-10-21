@@ -131,7 +131,7 @@
 
 5. 跟踪和推送的产品上线实施，顺利完成了多地产品上线运营。
 ```
->关键字：C++、ORACLE、Mysql、Unix环境代码编译工具(make), Apache(C++)、JSON、XML、JAVA
+>关键字：C++、ORACLE、Mysql、Unix环境代码编译工具(make)、Apache(C++)、JSON、XML、JAVA
 
 
 *2012-2019* **和生活-影院在线订座平台**  ![](https://img.shields.io/badge/产品类型-平台类型-blue) ![](https://img.shields.io/badge/行业-电信-green) ![](https://img.shields.io/badge/-O2O-green) ![](https://img.shields.io/badge/-在线支付-yellowred) ![](https://img.shields.io/badge/-APP-green) 
