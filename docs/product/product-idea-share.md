@@ -1,10 +1,10 @@
 ## 产品案例分享
 
-1、--> **解放思想，利用人脸技术为一线民警减负。**
+1、 [解放思想，利用人脸技术为一线民警减负。](./product-idea-share)
 
-2、[**实事求是，打造公安行业的工作指令系统。**](./product-idea-share-task)
+2、 [**实事求是，打造公安行业的工作指令系统。**](./product-idea-share-task)
 
-3、**开放生态，采集一次、全警共享。**（待续）
+3、 [**开放生态，采集一次、全警共享。**](./product-idea-share-collect) 
 
 ![](../../assets/images/product-idea-share-01.jpg)
 
