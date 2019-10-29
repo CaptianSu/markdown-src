@@ -8,8 +8,6 @@
 
 1.2 基于运营商为主体的积分营销平台 (更新中...)
 
-
-
 ### **2. 业务产品**
 
 2.1 [解放思想，利用人脸技术为一线民警减负](https://captiansu.github.io/CaptainSuDaily/docs/product/product-idea-share)
