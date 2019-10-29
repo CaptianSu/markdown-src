@@ -1,10 +1,13 @@
-![Author](https://img.shields.io/badge/Author-subo-green) ![](https://img.shields.io/badge/职业-产品经理-green) ![](https://img.shields.io/badge/tech-技术背景-green) ![](https://img.shields.io/badge/Good-平台产品-green)
+![Author](https://img.shields.io/badge/Author-subo-green) 
+![](https://img.shields.io/badge/职业-产品经理-green)
+![](https://img.shields.io/badge/tech-技术背景-green) 
+![](https://img.shields.io/badge/Good-平台产品-green)
 
 ## 36岁非退休产品人
 
->产品经理（Product Manager）是企业中专门负责产品管理的职位，产品经理负责市场调查并根据产品、市场及用户等的需求，
-确定开发何种产品，选择何种业务模式、商业模式等。并推动相应产品的开发组织，他还要根据产品的生命周期，协调研发、营销、
-运营等，确定和组织实施相应的产品策略，以及其他一系列相关的产品管理活动。
+> 产品经理（Product Manager）是企业中专门负责产品管理的职位，产品经理负责市场调查并根据产品、市场及用户等的需求，
+> 确定开发何种产品，选择何种业务模式、商业模式等。并推动相应产品的开发组织，他还要根据产品的生命周期，协调研发、营销、
+> 运营等，确定和组织实施相应的产品策略，以及其他一系列相关的产品管理活动。
 
 世间本无产品经理，混的人多了，自然就有这口饭吃。36岁以后，不适合混饭吃，但还适不合适合从事产品工作？
 
@@ -19,16 +22,15 @@
 
 如果一定要留下点什么，那么我想记录、收集一些多年的经验。正是这些经验成就了一个思考者-产品经理。
 
+### 目录
 
-欢迎交流，推荐或自荐，文章/软件/资源，请提交 issue 。
+- #### [我的产品分享](https://captiansu.github.io/CaptainSuDaily/docs/product/menu)
+- #### [朝花夕拾]()
 
 ## 朝花夕拾
+
 ```
 “朝”表示早年时候，“夕”表示晚年时期，意思是早上的花晚上来捡.这里指鲁迅先生在晩年回忆童年时期、少年时期、青年时期的人
 
 和事这里我借由鲁迅先生的”朝花夕拾“名称，来进行日常修行。
-
 ```
-
-
-
