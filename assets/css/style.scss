@@ -3,6 +3,18 @@
 @import 'jekyll-theme-cayman';	
 
 
+@media screen and (min-width: 64em) 
+{
+
+        .page-header {
+
+                padding: 3rem 4rem;
+
+        }
+
+}
+
+
 .main-content {
   font-size: 0.9rem;
   line-height: 1.8rem;
