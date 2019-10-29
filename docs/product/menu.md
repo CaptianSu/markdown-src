@@ -6,7 +6,7 @@
 
 1.1 [新一代移动警务应用平台](https://captiansu.github.io/CaptainSuDaily/nmpp-ppt)
 
-1.2 [基于运营商为主体的积分营销平台](https://captiansu.github.io/CaptainSuDaily/nmpp-ppt/ydsm-ppt) (更新中...)
+1.2 [基于运营商为主体的积分营销平台](https://captiansu.github.io/CaptainSuDaily/nmpp-ppt/ydsm-ppt.html) (更新中...)
 
 ### **2. 业务产品**
 
