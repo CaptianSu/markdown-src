@@ -16,7 +16,7 @@
 
 2.2 [实事求是，适合公安行业的工作指令系统](https://captiansu.github.io/CaptainSuDaily/docs/product/product-idea-share-task)
 
-2.3 [开放生态，一次采集、全警共享](https://captiansu.github.io/CaptainSuDaily/docs/product/product-idea-share-task)
+2.3 [开放生态，一次采集、全警共享](https://captiansu.github.io/CaptainSuDaily/docs/product/product-idea-share-collect)
 
 2.4 [扎根一线，让地图服务真正为一线服务 (更新中...)](https://captiansu.github.io/CaptainSuDaily/docs/product/product-idea-share-map)
 
