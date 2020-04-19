@@ -24,7 +24,7 @@
 
 ### 目录
 
-- #### [我的产品分享](https://captiansu.github.io/CaptainSuDaily/docs/product/menu)
+- #### [我的产品分享](https://su20438903.github.io/intro/docs/product/menu)
 - #### [朝花夕拾]()
 
 ## 朝花夕拾
